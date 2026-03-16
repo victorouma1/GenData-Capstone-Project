@@ -1,1 +1,3 @@
 # GenData-Capstone-Project
+### Problem Statement
+The short-term rental market has grown rapidly with platforms such as Airbnb which allows property owners to list accommodations and travelers to find places to stay. However hosts often struggle to determine optimal pricing ideal locations for listings and the factors that influence booking demand. Without clear data insights hosts may set prices too high or too low which will result in a revenue loss. This project aims to analyse Airbnb listing data from the Inside Airbnb Dataset to identify pricing patterns, neighborhood performance, and factors that influence listing popularity.
