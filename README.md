@@ -9,9 +9,9 @@ This project focuses on bridging the gap between property listings and market de
 Identifying zones where listing prices are highest against neighborhoods with the best growth potential.<br>
 Using review frequency to respresent occupancy and to determine which months see the highest traveler volume. <br>
 Determining which features have the strongest correlation with higher nightly rates and better rating. <br>
-A comparative tool that allows a host to see how their listing stacks up against the "Top 10%" in their specific neighborhood.
+A comparative tool that allows a host to see how their listing stacks up against the "Top 10%" in their specific neighborhood.<br>
 
 ### Tools
-Excel - Data Cleaning
-SQL - Joining Multiple Tables
-Tableau - Building interactive heatmap, trend lines for seasons and the final executive dashboard.
+Excel - Data Cleaning.<br>
+SQL - Joining Multiple Tables. <br>
+Tableau - Building interactive heatmap, trend lines for seasons and the final executive dashboard. <br>
