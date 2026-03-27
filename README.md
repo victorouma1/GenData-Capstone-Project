@@ -23,3 +23,4 @@ Excel - Data Cleaning.<br>
 SQL - Joining Multiple Tables. <br>
 Tableau - Building interactive heatmap, trend lines for seasons and the final executive dashboard. <br>
 Data - Inside Airbnb (73 Columns, 10000+ rows)
+Live URL = https://insights-on-display-82.lovable.app/
